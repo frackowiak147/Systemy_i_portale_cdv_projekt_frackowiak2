@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "I1jS5dAHx/c=",
+  "success": true,
+  "projectFilePath": "E:\\CDV\\Semestr_6\\Systemy_zarzadzania\\25_05_2024\\dotnetvm\\DotnetOnLinux.Web\\DotnetOnLinux.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\frack\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\frack\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\frack\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\frack\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
